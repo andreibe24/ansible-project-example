@@ -1,0 +1,1 @@
+1. Deploy a webapp on all hosts: git clone -> build app with Maven -> run .war file using TomCat Service
